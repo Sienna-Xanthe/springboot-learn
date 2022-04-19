@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/springboot-01-helloword/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-03-web-text/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-03-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-04-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-05-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-06-security/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
